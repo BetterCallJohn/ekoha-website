@@ -1,0 +1,60 @@
+# Ekoha Website
+
+A clean, modern website for Ekoha - Technical Accelerator for Startups.
+
+## Deployment
+
+This website is ready to deploy on Netlify or Vercel with zero configuration.
+
+### Deploy to Netlify
+
+1. **Via Git Repository:**
+   - Push this code to a Git repository (GitHub, GitLab, or Bitbucket)
+   - Connect your repository to Netlify
+   - Netlify will automatically deploy using the `netlify.toml` configuration
+
+2. **Via Drag & Drop:**
+   - Zip the entire project folder
+   - Go to [Netlify](https://netlify.com)
+   - Drag and drop the zip file to deploy instantly
+
+### Deploy to Vercel
+
+1. **Via Git Repository:**
+   - Push this code to a Git repository
+   - Connect your repository to Vercel
+   - Vercel will automatically detect and deploy the static site
+
+2. **Via Vercel CLI:**
+   ```bash
+   npx vercel --prod
+   ```
+
+## Project Structure
+
+```
+├── index.html          # Main HTML file
+├── assets/
+│   ├── css/
+│   │   ├── styles.min.css  # Main stylesheet
+│   │   └── fonts.css       # Google Fonts
+│   ├── js/
+│   │   └── main.js         # JavaScript functionality
+│   └── img/                # All images and icons
+├── netlify.toml        # Netlify configuration
+└── README.md          # This file
+```
+
+## Features
+
+- ✅ Fully responsive design
+- ✅ Modern CSS and JavaScript
+- ✅ Optimized for performance
+- ✅ SEO-friendly meta tags
+- ✅ Open Graph social sharing
+- ✅ Google Analytics ready
+- ✅ Zero build process required
+
+## Contact
+
+For questions about this website, contact: hello@ekoha.co # ekoha-website
