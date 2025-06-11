@@ -1,0 +1,23 @@
+{
+  "name": "ekoha-website",
+  "version": "1.0.0",
+  "description": "Ekoha - Technical Accelerator for Startups website",
+  "main": "index.html",
+  "scripts": {
+    "start": "python3 -m http.server 8000",
+    "serve": "python3 -m http.server 8000"
+  },
+  "keywords": [
+    "startup",
+    "accelerator",
+    "technical",
+    "ekoha"
+  ],
+  "author": "Ekoha",
+  "license": "MIT",
+  "homepage": "https://www.ekoha.co",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ekoha/website.git"
+  }
+} 
